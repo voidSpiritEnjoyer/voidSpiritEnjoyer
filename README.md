@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**voidSpiritEnjoyer/voidSpiritEnjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ilnur, and here are some facts about me: 
+- I'm 20 years old 🥱
+- I want to become a developer and my choice fell on the frontend 🤥
+- I'm studying on my own (Hope I will successfully cope with all the difficulties)) 🧐
+- Even though I am getting a higher education as a lawyer, it seems to me that coding is for me 👨‍🎓
 
-Here are some ideas to get you started:
+Okay, now there are no more interesting facts, it’s worth starting to list the not so interesting ones.😋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, I can use:
+- HTML
+- CSS
+- JS
+- SCSS
+- REACT
+
+My telegram: @ilnurasd. I'm always open for an interesting conversation. 🥰🥺
